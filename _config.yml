@@ -6,14 +6,15 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /
+# baseurl: /jasper2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: clastic music
+description: making clastic music
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
+# logo: assets/images/blog-icon.png
+# logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
 
