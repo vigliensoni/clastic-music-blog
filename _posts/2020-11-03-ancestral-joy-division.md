@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/jd.jpg
 navigation: True
-title: Ancestral sampling Joy Division
+title: Ancestral sampling conditioned on Joy Division
 date: 2020-11-03 5:34:00
 tags: [Jukebox, ancestral sampling]
 class: post-template
