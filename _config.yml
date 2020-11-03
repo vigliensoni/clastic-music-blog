@@ -6,8 +6,8 @@ language: 'en-uk'
 words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
-# baseurl: /jasper2/
+# baseurl: /
+baseurl: /clastic-music/
 
 # Website info
 title: clastic music
@@ -68,13 +68,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: vigliensoni
+repo: clastic-music
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+production_url:  https://vigliensoni.github.io/clastic-music/
+source_url:  https://github.com/vigliensoni/clastic-music/
 
 exclude:
   - assets/css
