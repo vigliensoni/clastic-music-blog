@@ -87,7 +87,7 @@ The tempo is sometimes dictated by the metronome and remains constant (e.g., `it
 
 There's some kind of vocoder-ish sound in all the examples.
 
-My favorite one: `item 8`
+My favorite one: `item 7`
 
 **Having a rhythmic primer leads, in general, to rhythmic patterns**
 
