@@ -3,15 +3,22 @@ layout: page
 current: about
 title: About
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/david-tudor-neural-synthesis.jpg'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+This is a daily updated log for the current research I'm doing on the creative affordances of machine learning in the context of music production and performance. 
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Some of the topics I am interested are:
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+- Neural synthesis
+- Modeling of rhythms
+- Build useful and expressive systems for musical performance
+- Training data: Working and making sense of small data and the challenges of large data
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+
+
+You can check my latest publications on these topics at [https://vigliensoni.com/research](https://vigliensoni.com/research
+){:target="_blank"}
+
