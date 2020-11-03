@@ -46,6 +46,8 @@ python jukebox/jukebox/sample-01-primed.py \
 --prompt_length_in_seconds=3.428
 ```
 
+It took 09:10:03 hours and 30.51 GB RAM on a V100 GPU for each one of the primers (they actual time and RAM varied slightly)
+
 Here are some of the resulting output the network has generated. 
 
 ### Priming on sine wave
