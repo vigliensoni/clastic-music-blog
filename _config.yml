@@ -7,7 +7,7 @@ words_per_minute: 200
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 # baseurl: /
-baseurl: /clastic-music/
+baseurl: /clastic-music
 
 # Website info
 title: clastic music
